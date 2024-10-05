@@ -3,19 +3,30 @@
 
 0 . 前生与来世——马吊到纸牌再到麻将的退化过程
 https://www.bilibili.com/video/BV1Bm4y1B7KV
+
 1 .  有法可依——马吊牌的牌组和出牌规则介绍  https://www.bilibili.com/video/BV1QQ4y1s78W
+
 2 .  优胜劣汰——马吊牌的灭牌规则和吊数结算
 https://www.bilibili.com/video/BV1fj411v73Q
+
 3 .  论功行赏——马吊牌的胜负结算方法详解
 https://www.bilibili.com/video/BV1894y1L7Ei
+
 4 . 按律处罚——马吊牌处罚规则背后的运行原理
 https://www.bilibili.com/video/BV1F84y1R7rw
+
 天胜色样:https://www.bilibili.com/video/BV1UV4y1f7ny
+
 四門色樣介紹:https://www.bilibili.com/video/BV1Bm4y1B7KV
+
 巧鬥色樣(上):[https://www.bilibili.com/video/BV1Bm4y1B7KV](https://www.bilibili.com/video/BV1ss4y1K765)
+
 巧斗色样(下):https://www.bilibili.com/video/BV1ST411W7Ea
+
 开冲规则:https://www.bilibili.com/video/BV1cm4y1U7tT
+
 冲成色样介绍:https://www.bilibili.com/video/BV1JL411e7ed
+
 常用名词术语:https://www.bilibili.com/video/BV1kM411L7YU
 
 马吊牌与兵法、阵法、军事操演之间的关系：https://www.bilibili.com/video/BV16B4y1R7V6
