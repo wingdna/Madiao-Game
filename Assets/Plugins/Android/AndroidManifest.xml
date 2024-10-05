@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unity3d.player"
+    xmlns:tools="http://schemas.android.com/tools">	
+    <application>
+        <activity android:name="com.unity3d.player.UnityPlayerActivity"
+                  android:theme="@style/UnityThemeSelector"
+				  android:debuggable="false"
+			      android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>		
+            <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+			<!--meta-data android:name="com.google.android.play.billingclient.version" android:value="5.2.0" /-->
+        </activity>
+    </application>
+	<!-- 您的应用还没有任何应用内商品,若要添加应用内商品，您需要为 APK 添加 BILLING 权限 -->
+	<!--uses-permission android:name="com.android.vending.BILLING" /-->
+</manifest>
