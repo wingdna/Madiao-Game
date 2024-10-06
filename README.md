@@ -1,19 +1,15 @@
 一、来历
 马吊是一种久已不传的古代博戏，据潘之恒、冯梦龙、顾炎武、等人的记载，它大概肇起于明朝万历年间，到天启中，江南山东等地已是”士人无不为此”，至明末年清初时，更发展到”马吊风驰，几遍天下”的光景。但由于明朝灭亡，遗民深怀亡国之痛，多将明亡归因于马吊，更加上马吊赌博成分愈发加深，规则更趋繁复，逐渐被后期兴起的默和牌、碰和牌麻将等玩法所取代。我们如今仍常在古装影视中看到它的身影，但影剧中所说的马吊，和真实马吊玩法已全无关系，不过是麻将的另一种叫法罢了。
 
-0 . 前生与来世——马吊到纸牌再到麻将的退化过程
-https://www.bilibili.com/video/BV1Bm4y1B7KV
+0 . [前生与来世——马吊到纸牌再到麻将的退化过程](https://www.bilibili.com/video/BV1zL411U7HK)
 
-1 .  有法可依——马吊牌的牌组和出牌规则介绍  https://www.bilibili.com/video/BV1QQ4y1s78W
+1 .  [有法可依——马吊牌的牌组和出牌规则介绍](https://www.bilibili.com/video/BV1zp4y1T7KM)
 
-2 .  优胜劣汰——马吊牌的灭牌规则和吊数结算
-https://www.bilibili.com/video/BV1fj411v73Q
+2 .  [优胜劣汰——马吊牌的灭牌规则和吊数结算](https://www.bilibili.com/video/BV1QQ4y1s78W)
 
-3 .  论功行赏——马吊牌的胜负结算方法详解
-https://www.bilibili.com/video/BV1894y1L7Ei
+3 .  [论功行赏——马吊牌的胜负结算方法详解](https://www.bilibili.com/video/BV1894y1L7Ei)
 
-4 . 按律处罚——马吊牌处罚规则背后的运行原理
-https://www.bilibili.com/video/BV1F84y1R7rw
+4 . [按律处罚——马吊牌处罚规则背后的运行原理](https://www.bilibili.com/video/BV1F84y1R7rw))
 
 天胜色样:https://www.bilibili.com/video/BV1UV4y1f7ny
 
